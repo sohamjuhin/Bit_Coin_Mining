@@ -1,5 +1,19 @@
 #Bit_Coin_Mining#
 ----------------
+
+![images](https://user-images.githubusercontent.com/54598380/120110492-5bd17280-c18b-11eb-938c-fb8a5b8ddcc8.png)
+
+This a Block chain Mini project .This Project written by Python
+
+
+
+
+
+
+
+
+
+
 ##Blockchain##
 ------------------
 Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system. A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
@@ -41,9 +55,7 @@ Blockchain is the revolutionary tech of the future, for future security aspirant
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![images](https://user-images.githubusercontent.com/54598380/120110492-5bd17280-c18b-11eb-938c-fb8a5b8ddcc8.png)
 
-This a Block chain Mini project .This Project written by Python
 
 ![400px-Bitcoin_Block_Data](https://user-images.githubusercontent.com/54598380/158005743-59f34461-6941-4a5e-b984-5069f388f7e6.png)
                                 
